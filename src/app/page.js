@@ -5,13 +5,13 @@ export default function Home() {
     <div className="text-left">
       {/* Hero Section */}
       <section
-        className="h-[60vh] flex flex-col justify-center items-start"
+        className="max-w-6xl mx-auto px-4 md:px-8 lg:px-16 aspect-[21/9] flex flex-col justify-center items-start relative"
         style={{ backgroundImage: "url('/background.jpg')", backgroundSize: 'cover', backgroundPosition: 'center', marginTop: "40px" }}
       >
       </section>
 
       {/* Content Section */}
-      <section className="max-w-6xl mx-auto py-12 px-6">
+      <section className="max-w-6xl mx-auto px-4 md:px-8 lg:px-16 py-8">
         <h2 className="text-3xl font-semibold text-white text-center">
           Our Research Focus
         </h2>
