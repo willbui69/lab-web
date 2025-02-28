@@ -31,7 +31,7 @@ export default function Home() {
                 Advancing encryption techniques for secure communication.
               </p>
             </div>
-            <img src="/cryptography.jpg" alt="Cryptography" className="w-32 h-32 object-contain" />
+            <img src="/Cryptography.jpg" alt="Cryptography" className="w-32 h-32 object-contain" />
           </div>
           <div className="p-6 flex justify-between items-center">
             <div>
