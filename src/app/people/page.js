@@ -1,9 +1,9 @@
 export default function PeoplePage() {
     const members = [
-        { name: "Dr. Nha Nguyen", role: "Group Leader", img: "/nha.jpg", about: "Dr. Nha Nguyen is the group leader with extensive experience in research and development." },
-        { name: "Tran Duc Anh", role: "Researcher Assistant", img: "/avatar.jpg", about: "Tran Duc Anh is a dedicated researcher assistant focusing on data analysis." },
-        { name: "Nguyen Hoang Anh", role: "Researcher Assistant", img: "/NguyenHoangAnh.jpg", about: "Nguyen Hoang Anh is a researcher assistant with a passion for machine learning." },
-        { name: "Charlie", role: "Researcher", img: "/avatar.jpg", about: "Charlie is a researcher specializing in artificial intelligence and robotics." }
+        { name: "Professor Nha Nguyen", role: "Group Leader", img: "people/nha.jpg", about: "Dr. Nha Nguyen is the group leader with extensive experience in research and development." },
+        { name: "Duc Anh Tran", role: "Researcher Assistant", img: "people/avatar.jpg", about: "Tran Duc Anh is a dedicated researcher assistant focusing on data analysis." },
+        { name: "Hoang Anh Nguyen", role: "Researcher Assistant", img: "people/NguyenHoangAnh.jpg", about: "Hoang Anh Fourth-year Cyber Security student at Hanoi University of Science and Technology, with a strong foundation in Advanced Cryptography and Applied Mathematics. Currently a Network Security Engineer Intern at Viettel Cyber Security, with hands-on experience in network security and threat defense." },
+        { name: "Charlie", role: "Researcher", img: "people/avatar.jpg", about: "Charlie is a researcher specializing in artificial intelligence and robotics." }
     ];
 
     return (
